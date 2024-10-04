@@ -37,6 +37,10 @@ A simple Telegram bot that fetches random jokes using an external API and respon
    node index.js
    ```
 
+![Project Image]( https://github.com/Shrutiverma12/Joke-Bot/blob/main/projectImage.png)
+
+  
+
 
 
 
