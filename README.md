@@ -19,4 +19,4 @@ A simple Telegram bot that fetches random jokes using an external API and respon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/joke-bot.git
+   git clone https://github.com/Shrutiverma12/Joke-Bot.git
