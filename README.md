@@ -14,9 +14,32 @@ A simple Telegram bot that fetches random jokes using an external API and respon
 - npm (Node Package Manager)
 - A Telegram bot token from [BotFather](https://t.me/botfather)
 
-## Installation
+## Setup instruction
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Shrutiverma12/Joke-Bot.git
+   ```
+2. Install the dependencies
+
+    ```bash
+   npm install
+   ```   
+   
+3. Create a new file `.env` in the root directory of the project and add the following
+
+  ```bash
+  BOT_TOKEN = YOUR-BOT-TOKEN
+  ```
+4. Start the bot
+   ```bash
+   node index.js
+   ```
+
+
+
+
+   
+
+
